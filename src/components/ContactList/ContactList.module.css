@@ -1,0 +1,7 @@
+.item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.button {
+  margin-left: 20px;
+}
